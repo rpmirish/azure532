@@ -1,3 +1,3 @@
 # Scripts
 
-Autodeploy ubuntu server with relevant dependencies in azure
+Auto-deploy ubuntu server with relevant dependencies in azure
